@@ -54,7 +54,7 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "10.0.3",
     "babel-jest": "24.8.0",
-    "babel-plugin-macros": "^2.5.0",
+    "babel-plugin-macros": "^3.1.0",
     "babel-plugin-tester": "^6.0.0",
     "coveralls": "^3.0.2",
     "cp-cli": "^2.0.0",
